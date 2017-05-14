@@ -8,3 +8,5 @@ this repository contains [my assignments](https://github.com/BartvanVlijmen/assi
 [assignment week 5](https://github.com/BartvanVlijmen/assignments/blob/master/Assignment%2Bweek%2B5%2B%2528done%2529.ipynb)
 
 [assignment week 6](https://github.com/BartvanVlijmen/assignments/blob/master/Assignment%204%20(done).ipynb)
+
+[assignment (5) week 8](https://github.com/BartvanVlijmen/assignments/blob/master/Assignment%20for%20week%208(done).ipynb)
