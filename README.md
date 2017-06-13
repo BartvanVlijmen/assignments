@@ -10,3 +10,5 @@ this repository contains [my assignments](https://github.com/BartvanVlijmen/assi
 [assignment week 6](https://github.com/BartvanVlijmen/assignments/blob/master/Assignment%204%20(done).ipynb)
 
 [assignment (5) week 8](https://github.com/BartvanVlijmen/assignments/blob/master/Assignment%20for%20week%208(done).ipynb)
+
+[Final python assignment](https://github.com/BartvanVlijmen/assignments/blob/master/Final_Assignment_Python_1_BartvanVlijmen.ipynb)
